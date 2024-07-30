@@ -177,6 +177,7 @@ group by 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16)
 	on act_est.order_date::date = bu_dateseries.dt::date  and act_est.businessunit = bu_dateseries.businessunit and act_est.department_name = bu_dateseries.department_name
 where bu_dateseries.dt::date <= CURRENT_DATE-1
 
+select ;
 
 
 
