@@ -1,0 +1,667 @@
+Received: from SEZPR01MB5208.apcprd01.prod.exchangelabs.com ([2603:1046:101:93::5])
+        by smtp.gmail.com with ESMTPSA id s15-20020a170902ea0f00b001c72f51b84asm3413020plg.52.2023.10.18.05.24.23
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Wed, 18 Oct 2023 05:24:24 -0700 (PDT)
+From: "Harjot Singh" <harjot.singh@decision-tree.com>
+To: "Venkat Paruchuri" <vparuchuri@inovarpkg.com>
+Cc: "Shehzana Higgins" <shiggins@inovarpkg.com>,
+	"Brahn Howard" <bhoward@inovarpkg.com>,
+	"Charlie Franke" <cfranke@inovarpkg.com>,
+	"Derek Whang" <dwhang@kelso.com>,
+	"'Derek Whang' via Inovar" <inovar@decision-tree.com>
+Subject: Western Printing <> Metric List
+Date: Wed, 18 Oct 2023 17:54:20 +0530
+Message-ID: <SEZPR01MB52089F09316EF85D2A6E8405F5D5A@SEZPR01MB5208.apcprd01.prod.exchangelabs.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_05FE_01DA3373.F4B96FA0"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AQHb6XHBZCBJeEKph03nlBABuVBr7w==
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Content-Language: en-gb
+x-ms-exchange-messagesentrepresentingtype: 1
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+X-MS-Exchange-Organization-SCL: -1
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_05FE_01DA3373.F4B96FA0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+Hi Venkat,
+
+Hope you are doing well.
+
+As discussed in our last call (10/17), I am appending a non-exhaustive list
+of metrics which will be used for integration of Western Printing's data
+across Tableau.
+
+Metric Group	 KPI	 
+Sales	 Sales	 
+Sales	 Budget	 
+Sales	 Quota	 
+Sales	 Contribution Margin	 
+Sales	 Stock Cost	 
+Sales	 Labor & Overhead Costs	 
+Sales	 PO, Freight & Other Costs	 
+Sales	 Total Cost	 
+Sales	 $/MSI	 
+Backlog	 Bookings 	 
+Backlog	 Backlogs	 
+Ops	 Daily Average Footage	 
+Ops	 Linear Good Footage	 
+Ops	 Total Footage	 
+Ops	 Waste %	 
+Ops	 Avg Job Size	 
+Ops	 Avg Job Size Per SKU	 
+Ops	 Feet / Clock Hour	 
+Ops	 Press Utilization %	 
+Ops	 Gross Press Hours	 
+Ops	 Total Elapsed Time	 
+Ops	 Downtime Hours 	 
+Ops	 Make Ready Time	 
+Ops	 Make Ready Time Per Job	 
+Ops	 Make Ready Time Per SKU	 
+Ops	 Total Hours Worked (Punch Out)	 
+Productivity	 On Time %	 
+Productivity	 OTIF %	 
+Productivity	 Complaints	 
+Productivity	 Lead Time	 
+Finance	 Vendor Spend	 
+Finance	 AR Aging	 
+
+I am also appending the URL of the Google sheet, which summarizes the
+various metrics at the enterprise level:
+https://docs.google.com/spreadsheets/d/1EqQyaprcM-aYQEwT2yu67dfMk7ttSN7Nl2bS
+vcXFsj0/edit#gid=1976956950
+
+
+Please let us know in case we can assist with any further details.
+
+
+Best,
+
+Harjot  
+
+
+------=_NextPart_000_05FE_01DA3373.F4B96FA0
+Content-Type: text/html;
+	boundary="_000_SEZPR01MB52089F09316EF85D2A6E8405F5D5ASEZPR01MB5208apcp_";
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Diso-8859-1">
+
+
+<style type=3D"text/css" style=3D"display:none;"> P =
+{margin-top:0;margin-bottom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div style=3D"font-family: Aptos, Aptos_EmbeddedFont, =
+Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; =
+color: rgb(0, 0, 0);" class=3D"elementToProof">
+<span style=3D"font-family: Aptos, Aptos_EmbeddedFont, =
+Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; =
+background-color: rgb(255, 255, 255);" class=3D"ContentPasted0">Hi =
+Venkat,</span></div>
+<div style=3D"font-family: Aptos, Aptos_EmbeddedFont, =
+Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; =
+color: rgb(0, 0, 0);" class=3D"elementToProof">
+<div style=3D"font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web =
+(West European)&quot;, &quot;Helvetica Neue&quot;, sans-serif; =
+font-size: 10pt; background-color: rgb(255, 255, 255);">
+<br class=3D"ContentPasted0">
+</div>
+<div style=3D"font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web =
+(West European)&quot;, &quot;Helvetica Neue&quot;, sans-serif; =
+font-size: 10pt; background-color: rgb(255, 255, 255);" =
+class=3D"ContentPasted0">
+<span style=3D"font-family: Aptos, Aptos_EmbeddedFont, =
+Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: =
+12pt;">Hope you&nbsp;are doing well.</span></div>
+<div style=3D"font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web =
+(West European)&quot;, &quot;Helvetica Neue&quot;, sans-serif; =
+font-size: 10pt; background-color: rgb(255, 255, 255);">
+<br class=3D"ContentPasted0">
+</div>
+<div style=3D"font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web =
+(West European)&quot;, &quot;Helvetica Neue&quot;, sans-serif; =
+font-size: 10pt; background-color: rgb(255, 255, 255);" =
+class=3D"ContentPasted0">
+<span style=3D"font-family: Aptos, Aptos_EmbeddedFont, =
+Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: =
+12pt;">As discussed in our last call (10/17), I am appending a =
+non-exhaustive list of metrics which will be used for integration of =
+Western
+ Printing's data across Tableau.</span></div>
+<div style=3D"font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web =
+(West European)&quot;, &quot;Helvetica Neue&quot;, sans-serif; =
+font-size: 10pt; background-color: rgb(255, 255, 255);">
+<br class=3D"ContentPasted0">
+</div>
+<div style=3D"font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web =
+(West European)&quot;, &quot;Helvetica Neue&quot;, sans-serif; =
+font-size: 10pt; background-color: rgb(255, 255, 255);">
+<table style=3D"border-collapse: collapse; box-sizing: border-box; =
+width: 354.656px; height: 726px;">
+<tbody>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); font-weight: 700; text-align: center; background: rgb(217, =
+225, 242); height: 22px; width: 99.7969px; box-sizing: border-box; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Metric Group</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); font-weight: 700; text-align: center; background: rgb(217, =
+225, 242); width: 253.859px; box-sizing: border-box; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+KPI</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Sales</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Sales</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Sales</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Budget</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Sales</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Quota</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Sales</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Contribution Margin</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Sales</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Stock Cost</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Sales</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Labor &amp; Overhead Costs</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Sales</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+PO, Freight &amp; Other Costs</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Sales</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Total Cost</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Sales</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+$/MSI</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Backlog</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Bookings<span class=3D"ContentPasted0">&nbsp;</span></td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Backlog</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Backlogs</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Ops</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Daily Average Footage</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Ops</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Linear Good Footage</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Ops</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Total Footage</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Ops</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Waste %</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Ops</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Avg Job Size</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Ops</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Avg Job Size Per SKU</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Ops</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Feet / Clock Hour</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Ops</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Press Utilization %</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Ops</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Gross Press Hours</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Ops</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Total Elapsed Time</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Ops</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Downtime Hours<span class=3D"ContentPasted0">&nbsp;</span></td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Ops</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Make Ready Time</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Ops</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Make Ready Time Per Job</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Ops</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Make Ready Time Per SKU</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 21px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Ops</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; word-break: =
+break-word; height: 21px; color: black;" class=3D"ContentPasted0">
+Total Hours Worked (Punch Out)</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Productivity</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+On Time %</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Productivity</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+OTIF %</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Productivity</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Complaints</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Productivity</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Lead Time</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Finance</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Vendor Spend</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); height: 22px; box-sizing: border-box; width: 99.7969px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+Finance</td>
+<td style=3D"margin: 0px; padding-top: 1px; padding-right: 1px; =
+padding-left: 1px; font-size: 11pt; text-decoration: none; font-family: =
+Calibri, sans-serif; vertical-align: bottom; border: 1px solid rgb(212, =
+212, 212); box-sizing: border-box; width: 253.859px; height: 22px; =
+word-break: break-word; color: black;" class=3D"ContentPasted0">
+AR Aging</td>
+</tr>
+</tbody>
+</table>
+</div>
+<br>
+</div>
+<div style=3D"font-family: Aptos, Aptos_EmbeddedFont, =
+Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; =
+color: rgb(0, 0, 0);" class=3D"elementToProof">
+I am also appending the URL of the Google sheet, which summarizes the =
+various metrics at the enterprise level:</div>
+<div style=3D"font-family: Aptos, Aptos_EmbeddedFont, =
+Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; =
+color: rgb(0, 0, 0);" class=3D"elementToProof ContentPasted1">
+<a =
+href=3D"https://docs.google.com/spreadsheets/d/1EqQyaprcM-aYQEwT2yu67dfMk=
+7ttSN7Nl2bSvcXFsj0/edit#gid=3D1976956950" =
+id=3D"OWA22bc2102-ab0f-f654-eb50-60edca59df6b" class=3D"OWAAutoLink" =
+contenteditable=3D"true" style=3D"pointer-events: =
+auto;">https://docs.google.com/spreadsheets/d/1EqQyaprcM-aYQEwT2yu67dfMk7=
+ttSN7Nl2bSvcXFsj0/edit#gid=3D1976956950</a><br>
+</div>
+<div style=3D"font-family: Aptos, Aptos_EmbeddedFont, =
+Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; =
+color: rgb(0, 0, 0);" class=3D"elementToProof ContentPasted1">
+<br>
+</div>
+<div style=3D"font-family: Aptos, Aptos_EmbeddedFont, =
+Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; =
+color: rgb(0, 0, 0);" class=3D"elementToProof ContentPasted1">
+Please let us know in case we can assist with any further details.</div>
+<div style=3D"font-family: Aptos, Aptos_EmbeddedFont, =
+Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; =
+color: rgb(0, 0, 0);" class=3D"elementToProof">
+<br>
+</div>
+<div class=3D"elementToProof">
+<div id=3D"Signature">
+<div>
+<p style=3D"margin: 0px; color: rgb(34, 34, 34);"><b><span =
+lang=3D"EN-IN" style=3D"color: rgb(31, 73, 125);">Best,</span></b></p>
+<p style=3D"margin: 0px; line-height: 12pt; color: rgb(34, 34, =
+34);"><span lang=3D"EN-IN" style=3D"color: rgb(31, 73, =
+125);">Harjot&nbsp;&nbsp;</span></p>
+<span></span></div>
+</div>
+</div>
+</body>
+</html>
+
+------=_NextPart_000_05FE_01DA3373.F4B96FA0--
